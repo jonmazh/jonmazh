@@ -45,7 +45,7 @@ graph TD
 * **IN PROGRESS 🚀 | Practical Mastery**
     * **freeCodeCamp:** JavaScript Algorithms and Data Structures certification.
     * **Full Stack Open (Helsinki):** High-priority Full Stack Web Development training.
-    * **CS50W (Harvard):** Advanced Web Programming with Python and JavaScript.
+    * **CS50P (Harvard):** Advanced Programming with Python.
     * **MIT Academy:** "The Missing Semester of Your CS Education" for advanced productivity.
 
 * **UP NEXT 📅 | Specialization & FAANG Prep**
