@@ -81,7 +81,7 @@ graph TD
 ---
 
 ## 🎯 Connect with me:
-* 💼 [LinkedIn](https://www.linkedin.com/in/jonmazh)
+* 💼 [LinkedIn](https://www.linkedin.com/in/jon-mazcu%C3%B1%C3%A1n-hern%C3%A1ndez-701308346/)
 * 📧 [Email Me](mailto:jonmazh@gmail.com)
 * 🌍 Based in Madrid | Open to relocation (Lisbon, London, Amsterdam, Berlin)
 
