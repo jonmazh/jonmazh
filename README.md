@@ -5,58 +5,7 @@
 
 I am a results-driven Engineer finishing my **Double Degree**. I specialize in building efficient, scalable software and solving real-world business logic through clean code. Currently seeking a **Software Engineering Internship** to apply my international experience and technical rigour.
 
----
-
-## 🗺️ Engineering Certification & Career Roadmap
-*Mapping my transition from Academic Excellence to Industry Seniority.*
-
-```mermaid
-graph TD
-    %% Nodes definition
-    A[<b>Phase 1: Academic & Global Foundation</b><br/>UADE Argentina Exchange<br/>URJC Double Degree Foundations] 
-    B[<b>Phase 2: Professional Impact</b><br/>Mar y Bosque Costa Rica<br/>freeCodeCamp JS Mastery]
-    C[<b>Phase 3: Advanced Modern Stack</b><br/>Helsinki Full Stack Open<br/>Bachelor's Thesis - TFG]
-    D[<b>Phase 4: Cloud & Scalability</b><br/>Cloudflare Workers<br/>Docker Microservices]
-    E[<b>GOAL: Senior Software Engineer</b>]
-
-    %% Connections
-    A --> B
-    B --> C
-    C --> D
-    D --> E
-
-    %% Styling
-    style B fill:#0052FF,stroke:#fff,stroke-width:3px,color:#fff
-    style C fill:#0052FF,stroke:#fff,stroke-width:3px,color:#fff
-    
-    subgraph "CURRENT FOCUS"
-    B
-    C
-    end
 ```
----
-
-## 📍 Roadmap Breakdown
-
-* **DONE ✅ | Foundation**
-    * **Academic Excellence:** Completed a 1-year academic exchange at **UADE (Argentina)**.
-    * **CS Core:** Mastered fundamentals at URJC (Advanced Algorithms, OS, and SQL).
-
-* **IN PROGRESS 🚀 | Practical Mastery**
-    * **freeCodeCamp:** JavaScript Algorithms and Data Structures certification.
-    * **Full Stack Open (Helsinki):** High-priority Full Stack Web Development training.
-    * **CS50P (Harvard):** Advanced Programming with Python.
-    * **MIT Academy:** "The Missing Semester of Your CS Education" for advanced productivity.
-
-* **UP NEXT 📅 | Specialization & FAANG Prep**
-    * **AWS Cloud Practitioner Essentials:** Specialized training in Cloud Infrastructure.
-    * **NeetCode Roadmap:** Advanced Algorithms and Data Structures for **FAANG-level** interview preparation.
-    * **Bachelor’s Thesis (TFG):** Research and development of a high-performance system.
-
-* **TARGET 🎯 | Excellence**
-    * **Career Goal:** Becoming a **Senior Software Engineer** in a high-growth Fintech or Infrastructure company.
-
----
 
 ## 🌍 International Experience & "In the Trenches" Engineering
 * **🇦🇷 Academic Exchange (1 Year):** Studied at **UADE (Buenos Aires, Argentina)**, expanding my perspective on global tech environments and software development methodologies.
